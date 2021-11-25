@@ -1,7 +1,7 @@
 # Unsupervised Crypto Investment Application
 ![COINS](images/coins.jpg)
 
-This is a machine learning model that groups cryptocurrencies to assemble investment portfolios that are based on the profitability of those cryptocurrencies.
+This is an unsupervised machine learning model that groups cryptocurrencies to assemble investment portfolios based on the profitability of those cryptocurrencies.
 
 ---
 ## Tools
@@ -24,6 +24,7 @@ To confirm your installation,
 conda list scikit-learn
 ```
 It should appear as:
+
 ![scikit-learn confirmation](images/scikit_confirm.jpg)
 
 * Install hvPlot
@@ -39,6 +40,7 @@ To confirm your installation,
 conda list hvplot
 ```
 It should appear as:
+
 ![hvplot confirmation](images/hvplot_confirm.jpg)
 
 ---
